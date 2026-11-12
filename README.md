@@ -15,11 +15,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **B.Sc. IT** student, focused on practical software engineering.
 - 💻 Building with **JavaScript, React, Node.js, Express, and MongoDB**.
 - 🤖 Exploring **AI engineering, LLM applications, RAG, and autonomous agents**.
 - 🏗️ Interested in **system design, cloud infrastructure, and developer tools**.
-- 🚀 Long-term direction: **full-stack + AI engineering**, with an interest in creating SaaS products.
 - 📌 I value working software, clear architecture, and continuous improvement.
 
 ## 🛠️ Tech Stack
@@ -35,8 +33,6 @@
 **Currently learning / exploring**
 
 ![Learning](https://skillicons.dev/icons?i=ts,nextjs,python,fastapi,postgres,redis,docker)
-
-Also exploring **LangChain, LangGraph, RAG, AI agents, and cloud sandboxes**. These are learning interests, not claims of production expertise.
 
 ---
 
@@ -73,32 +69,6 @@ Also exploring **LangChain, LangGraph, RAG, AI agents, and cloud sandboxes**. Th
 </tr>
 </table>
 
-### 📁 More Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Spencer News](https://github.com/rehansk09/Spencer_News) | News browsing interface using a news API | HTML, CSS, JavaScript |
-
----
-
-## 🧠 What I'm Exploring Next
-
-```text
-Full-stack foundations
-      ↓
-TypeScript + Next.js
-      ↓
-Python + FastAPI
-      ↓
-LLM apps + RAG + LangGraph
-      ↓
-Cloud infrastructure + isolated execution
-      ↓
-Autonomous coding agents & developer tools
-```
-
-**Project idea on my roadmap:** an autonomous cloud coding agent that can inspect a GitHub issue, work inside an isolated sandbox, run tests, and propose a pull request. *This is a planned direction, not a completed repository.*
-
 ---
 
 ## 📊 GitHub Activity
@@ -107,13 +77,9 @@ Autonomous coding agents & developer tools
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehansk09&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehansk09&layout=compact&theme=github_dark&hide_border=true)
-
 ![Contribution Streak](https://streak-stats.demolab.com?user=rehansk09&theme=github-dark-blue&hide_border=true)
 
 </div>
-
-<sub>Language charts reflect GitHub repository statistics, not a measure of proficiency. Third-party statistics images may occasionally be unavailable.</sub>
 
 ---
 
@@ -122,6 +88,7 @@ Autonomous coding agents & developer tools
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rehansk09-181717?style=for-the-badge&logo=github)](https://github.com/rehansk09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rehansk-1109spex/)
 
 **Interested in collaborating on full-stack apps, AI tooling, or developer-focused products?** Explore my repositories and open a discussion or issue on a relevant project.
 
