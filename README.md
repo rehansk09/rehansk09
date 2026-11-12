@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehansk09&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehansk09&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff&rank_icon=github&include_all_commits=true&custom_title=Rehan%20Shaikh)
 
 ![Contribution Streak](https://streak-stats.demolab.com?user=rehansk09&theme=github-dark-blue&hide_border=true)
 
@@ -87,8 +87,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-rehansk09-181717?style=for-the-badge&logo=github)](https://github.com/rehansk09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rehansk-1109spex/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehansk09)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehansk-1109spex/)
 
 **Interested in collaborating on full-stack apps, AI tooling, or developer-focused products?** Explore my repositories and open a discussion or issue on a relevant project.
 
