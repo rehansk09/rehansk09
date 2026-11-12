@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehansk09&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff&rank_icon=github&include_all_commits=true&custom_title=Rehan%20Shaikh)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rehansk09&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff&rank_icon=github&include_all_commits=true&custom_title=Rehan%20Shaikh)
 
 ![Contribution Streak](https://streak-stats.demolab.com?user=rehansk09&theme=github-dark-blue&hide_border=true)
 
